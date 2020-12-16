@@ -115,8 +115,8 @@ export LANG=en_US.UTF-8
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 
-source ~/.config/zsh/vi.zsh
-source ~/.config/zsh/autosuggest.zsh
+source ~/.config/zshrc/vi.zsh
+source ~/.config/zshrc/autosuggest.zsh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
